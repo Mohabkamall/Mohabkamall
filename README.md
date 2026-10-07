@@ -16,4 +16,4 @@ Currently exploring **Generative AI, LLMs, Prompt Engineering, and Agentic AI** 
 - 🔎 Real-world data collection & analysis
 
 ### 📫 Connect
-[LinkedIn](https://linkedin.com/in/mohab-kamal-54b71a270/) · [Email](mohabkamal351@gmail.com)
+[LinkedIn](https://linkedin.com/in/mohab-kamal-54b71a270/) · [Email](mailto:mohabkamal351@gmail.com)
